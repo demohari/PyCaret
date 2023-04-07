@@ -1,0 +1,8 @@
+pyspark
+numpy
+pandas
+matplotlib
+seaborn
+#scipy
+#statsmodels
+ipykernel
