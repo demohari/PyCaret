@@ -1,8 +1,8 @@
-pyspark
 numpy
-pandas
+pandas==1.5.3
 matplotlib
 seaborn
 #scipy
 #statsmodels
 ipykernel
+pycaret
